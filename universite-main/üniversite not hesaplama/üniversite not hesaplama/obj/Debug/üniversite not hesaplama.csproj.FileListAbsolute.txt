@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite_not_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite_not_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.pdb
